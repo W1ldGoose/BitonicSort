@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>BitonicSort.Program.BenchmarkTest-20211130-051416</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19041.1348 (2004/May2020Update/20H1)
+Intel Core i5-7400 CPU 3.00GHz (Kaby Lake), 1 CPU, 4 logical and 4 physical cores
+.NET SDK=5.0.402
+  [Host]     : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
+  Job-NYRLRC : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
+</code></pre>
+<pre><code>RunStrategy=Throughput  
+</code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>N</th><th>  Mean</th><th>Error</th><th>StdDev</th><th>Rank</th><th>Gen 0</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>SerialTest</td><td>32768</td><td>8.188 ms</td><td>0.0264 ms</td><td>0.0234 ms</td><td>1</td><td>-</td><td>-</td>
+</tr><tr><td>ParallelTest</td><td>32768</td><td>9.762 ms</td><td>0.0449 ms</td><td>0.0420 ms</td><td>2</td><td>5578.1250</td><td>17,465,817 B</td>
+</tr><tr><td>ParallelTest</td><td>2097152</td><td>871.609 ms</td><td>17.3778 ms</td><td>21.3415 ms</td><td>3</td><td>361000.0000</td><td>1,130,013,168 B</td>
+</tr><tr><td>SerialTest</td><td>2097152</td><td>1,024.602 ms</td><td>1.6776 ms</td><td>1.5692 ms</td><td>4</td><td>-</td><td>-</td>
+</tr><tr><td>ParallelTest</td><td>4194304</td><td>1,784.710 ms</td><td>33.4369 ms</td><td>34.3372 ms</td><td>5</td><td>724000.0000</td><td>2,264,145,248 B</td>
+</tr><tr><td>SerialTest</td><td>4194304</td><td>2,212.331 ms</td><td>5.5265 ms</td><td>5.1695 ms</td><td>6</td><td>-</td><td>-</td>
+</tr></tbody></table>
+</body>
+</html>

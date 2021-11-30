@@ -1,0 +1,194 @@
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=4194304-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=4194304-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=4194304-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=4194304-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=2097152-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=2097152-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=2097152-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=2097152-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=32768-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=32768-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=32768-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-Job-NYRLRC N=32768-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-N=4194304-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-N=4194304-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-N=2097152-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-N=2097152-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-N=32768-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-N=32768-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-ParallelTest-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=4194304-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=4194304-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=4194304-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=4194304-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=2097152-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=2097152-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=2097152-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=2097152-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=32768-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=32768-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=32768-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-Job-NYRLRC N=32768-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-N=4194304-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-N=4194304-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-N=2097152-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-N=2097152-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-N=32768-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-N=32768-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-SerialTest-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-barplot.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\BitonicSort\BitonicSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\BitonicSort.Program.BenchmarkTest-boxplot.png ***
+Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated. 
+This warning is displayed once every 8 hours.
+See vignette('programming') for more help
+Please use `group_by()` instead.
+`group_by_()` was deprecated in dplyr 0.7.0.
+╧ЁхфєяЁхцфхэшх:
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`summarise()` has grouped output by 'Target_Method'. You can override using the `.groups` argument.
+R.devices v2.17.0 (2021-01-19 18:30:06 UTC) successfully loaded. See ?R.devices for help.
+    combine
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:dplyr':
+    combine
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:gdata':
+╧Ёшёюхфшэ ■ яръхЄ: 'gridExtra'
+    startsWith
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:base':
+    object.size
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:utils':
+    nobs
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:stats':
+    combine, first, last
+╤ыхфє■∙шх юс·хъЄ√ ёъЁ√Є√ юЄ 'package:dplyr':
+╧Ёшёюхфшэ ■ яръхЄ: 'gdata'
+gdata: libaries needed to support Excel XLS and XLSX formats.
+gdata: to automatically download and install the perl
+gdata: Run the function 'installXLSXsupport()'
+gdata: to support 'XLSX' (Excel 2007+) files.
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: to support 'XLX' (Excel 97-2004) files.
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: perl is installed and available on the executable search path.)
+gdata: (To avoid display of this message in the future, please ensure
+gdata: 
+gdata: valid perl intrpreter.
+gdata: unless the 'perl=' argument is used to specify the location of a
+gdata: read.xls() will be unable to read Excel XLS and XLSX files
+gdata: 
+gdata: Unable to locate valid perl interpreter
+    intersect, setdiff, setequal, union
+╤ыхфє■∙шх юс·хъЄ√ ёъЁ√Є√ юЄ 'package:base':
+    filter, lag
+╤ыхфє■∙шх юс·хъЄ√ ёъЁ√Є√ юЄ 'package:stats':
+╧Ёшёюхфшэ ■ яръхЄ: 'dplyr'
