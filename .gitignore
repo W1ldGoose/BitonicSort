@@ -34,7 +34,9 @@ docs/apihtml
 
 .idea/
 *.iml
-
+Debug/
+Release/
+obj/
 **/BenchmarkDotNet.Artifacts/*
 !**/BenchmarkDotNet.Artifacts/result
 **/project.lock.json
