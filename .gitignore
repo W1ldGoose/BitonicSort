@@ -32,7 +32,6 @@ _ReSharper*/
 docs/guidehtml
 docs/apihtml
 
-.idea/
 *.iml
 Debug/
 Release/

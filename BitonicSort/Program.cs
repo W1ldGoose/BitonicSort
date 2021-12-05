@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
 using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Engines;
 using BenchmarkDotNet.Order;
@@ -7,7 +10,6 @@ using BenchmarkDotNet.Running;
 
 namespace BitonicSort
 {
-
     /*Для сортировки массива произвольного размера N, 
     исходный массив должен быть разделён на подмассивы 
     размера степени двойки. Каждый подмассив сортируется 
@@ -25,55 +27,68 @@ namespace BitonicSort
             public IEnumerable<int> ValuesForN => new int[]
             {
                 (int) Math.Pow(2, 15),
-               (int) Math.Pow(2, 21),
-               (int) Math.Pow(2, 22)
+                (int) Math.Pow(2, 17),
+                (int) Math.Pow(2, 20)
             };
-           
-            [ParamsSource(nameof(ValuesForN))] 
-            public int N = 1000;
 
-            public int[] unsortedArray;
+            [ParamsSource(nameof(ValuesForN))] public int N = 1024;
+
+            public double[] unsortedArray;
 
             [GlobalSetup]
             public void Setup()
             {
-                unsortedArray = new int[N];
+                unsortedArray = new double[N];
                 FillArray(unsortedArray);
             }
 
             [Benchmark]
-            public void ParallelTest() => BitonicSort.ParallelBitonicSort(unsortedArray, N);
+            public void ParallelTest()
+            {
+                BitonicSort.ParallelBitonicSort(unsortedArray, N);
+            }
 
             [Benchmark]
             public void SerialTest() => BitonicSort.SerialBitonicSort(unsortedArray, N);
         }
-        
-        public static void FillArray(int[] unsortedArray)
+
+        public static void FillArray(double[] unsortedArray)
         {
+            int minValue = 0;
+            int maxValue = 100;
             Random rand = new Random();
             for (int i = 0; i < unsortedArray.Length; i++)
             {
-                unsortedArray[i] = rand.Next(0, 1000000);
+                unsortedArray[i] = rand.NextDouble() * (maxValue - minValue) + minValue;
             }
         }
 
-        public static int[] testArr = new int[1024];
+        public static bool IsSorted(double[] a)
+        {
+            bool sorted = true;
+            for (int i = 1; i < a.Length; i++)
+            {
+                if (a[i - 1] > a[i])
+                {
+                    sorted = false;
+                    break;
+                }
+            }
+
+            return sorted;
+        }
+
+        public static double[] testArr = new double[4096];
+
         static void Main(string[] args)
         {
-          
-            
-            /*
-            FillArray(testArr);
-           // BitonicSort.SerialSort(testArr,testArr.Length);
-           BitonicSort.ParallelBitonicSort(testArr, testArr.Length);
-           foreach (var i in testArr)
-           {
-               Console.Write(i+" ");
-           }
-           */
-            
+            /* FillArray(testArr);
+             BitonicSort.SerialBitonicSort(testArr, testArr.Length);
+             FillArray(testArr);
+             BitonicSort.ParallelBitonicSort(testArr, testArr.Length);
+            */
+
             var summary = BenchmarkRunner.Run<BenchmarkTest>();
-            
         }
     }
 }
